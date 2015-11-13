@@ -1,0 +1,1 @@
+<p>You can connect to github to store large templated files such as config files. This can be done from <a href="https://vendor.replicated.com/#/settings">https://vendor.replicated.com/#/settings</a></p>
