@@ -1,1 +1,2 @@
-<p>You can connect to github to store large templated files such as config files. This can be done from <a href="https://vendor.replicated.com/#/settings">https://vendor.replicated.com/#/settings</a></p>
+<p>You can connect to GitHub to store large templated files such as config files. This can be done from <a href="https://vendor.replicated.com/#/settings">https://vendor.replicated.com/#/settings</a></p>
+<p>Technical documentation on how to <a href="http://docs.replicated.com/v1.0/docs/components-and-containers#section-github-reference">reference GitHub files in the Replicated YAML.</a></p>
